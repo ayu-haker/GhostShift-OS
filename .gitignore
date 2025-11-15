@@ -1,0 +1,50 @@
+*.swo
+*.swp
+*.config
+*.creator
+*.creator.user
+*.creator.user.*
+*.files
+*.includes
+*.cflags
+*.cxxflags
+*.autosave
+Meta/Lagom/build
+Build
+Toolchain/Tarballs
+Toolchain/Build
+Toolchain/Local
+.vscode
+.ccls-cache
+compile_commands.json
+.cache
+.clang_complete
+.clangd
+.idea/
+cmake-build-debug/
+output/
+run-local.sh
+sync-local.sh
+.vim/
+.exrc
+.helix/
+
+# Gradle/AndroidStudio
+.gradle/
+.cxx/
+local.properties
+# We can't build from cmd.exe anyway
+gradlew.bat
+
+Userland/Libraries/LibWasm/Tests/Fixtures/SpecTests
+Userland/Libraries/LibWasm/Tests/Spec
+
+Tests/LibWeb/WPT/wpt
+Tests/LibWeb/WPT/metadata
+Tests/LibWeb/WPT/MANIFEST.json
+
+# Ensure that all files in /Base can be tracked, even if they match one of the above rules
+!/Base/**
+
+# Keep last to ensure .DS_Store is never tracked, even if otherwise allowed by any exception above.
+.DS_Store
