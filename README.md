@@ -7,7 +7,12 @@ A modern, open-source operating system inspired by GhostShift OS — built from 
 GhostShift OS is a lightweight, UNIX-like operating system designed for learning, experimentation, and creativity.
 It aims to combine modern design principles with a classic kernel architecture, enabling developers to explore every layer of a full system — from low-level hardware to high-level user interfaces.
 
-🧩 Key Features
+🧩 Key Feat<img width="1536" height="1024" alt="ChatGPT Image Nov 7, 2025, 02_04_46 AM" src="https://github.com/user-attachments/assets/7f3305b7-fa5c-4805-8342-7d743044f41b" />
+ures
+<img width="440" height="237" alt="Screenshot 2025-11-17 031550" src="https://github.com/user-attachments/assets/809be3d7-ed23-4588-a848-f8f23c0d4096" />
+<img width="386" height="228" alt="Screenshot 2025-11-17 031600" src="https://github.com/user-attachments/assets/7483a642-816c-4333-9633-a65d940951da" />
+<img width="384" height="417" alt="Screenshot 2025-11-17 031610" src="https://github.com/user-attachments/assets/c372022f-e31d-4602-b1ed-78a07a5a2d34" />
+<img width="1920" height="923" alt="Screenshot from 2025-11-16 01-40-28" src="https://github.com/user-attachments/assets/6d993ec4-860d-40c9-94fd-79f03066454e" />
 
 🧱 Monolithic Kernel — simple, fast, and modular by design.
 
