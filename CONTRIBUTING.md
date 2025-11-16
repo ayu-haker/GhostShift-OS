@@ -85,21 +85,6 @@ While unadvertised PRs may get randomly merged by curious maintainers, you will 
 
 Ping them right away if it's something urgent! If it's less urgent, advertise your PR on Discord (`#code-review`) and ask if someone could review it.
 
-### Who are the project maintainers?
-
--   [@ADKaster](https://github.com/ADKaster)
--   [@alimpfard](https://github.com/alimpfard)
--   [@AtkinsSJ](https://github.com/AtkinsSJ)
--   [@BertalanD](https://github.com/BertalanD)
--   [@GMTA](https://github.com/gmta)
--   [@Lubrsi](https://github.com/Lubrsi)
--   [@nico](https://github.com/nico)
--   [@spholz](https://github.com/spholz)
--   [@timschumi](https://github.com/timschumi)
--   [@trflynn89](https://github.com/trflynn89)
-
-Maintainership is by invitation only and does not correlate with any particular metric.
-
 ### Is there a policy for branches/PRs that haven't been touched in X days? Should they be closed?
 
 Yes, we have a "stalebot" that will mark untouched PRs as "stale" after 21 days, and close them after another 7 days if nothing happens.
