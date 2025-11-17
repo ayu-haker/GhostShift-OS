@@ -80,11 +80,11 @@ Create a feature branch
 
 Submit a pull request
 
-📜 License
+📜 License:-
 
 This project is licensed under the MIT License — feel free to use, modify, and distribute with attribution.
 
-👨‍💻 Author
+👨‍💻 Author:-
 
 Ayushman Bosu Roy
 “Learning by breaking and building again.” ⚙️
